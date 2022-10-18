@@ -1,6 +1,6 @@
 {
 
-	"name": "SysML Interface Library"
+	"name": "SysML Interface Library",
 	"description":"SysML library of common interface types",
 	"repoURL":"https://github.com/ealexander22/SysML-Library-Common-Interfaces.git"
 }
